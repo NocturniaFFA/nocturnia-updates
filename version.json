@@ -1,10 +1,10 @@
 {
-  "launcherVersion": "1.0.1",
-  "launcherInstallerUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.1/Nocturnia-Launcher-Setup-1.0.1.exe",
-  "launcherSha256": "f76e2f6b3a08e19264008fa1276825c407fd1a3382e9b382be8f3affaf74c1ce",
+  "launcherVersion": "1.0.2",
+  "launcherInstallerUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.2/Nocturnia-Launcher-Setup-1.0.2.exe",
+  "launcherSha256": "0dd172e0057e2a76b5bee761d127f44ef93d62021128c9a8672ee3a50a9f0945",
   "mandatory": true,
   "clientVersion": "1.5.0",
-  "clientUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.0/nocturnia-core.bin",
-  "clientSha256": "f19b08464e3bb67c9e017dc26eb064074a65864b03e02d78ef35de08e8e76f97",
-  "changelog": "Correction du telechargement (reprise auto + progression en direct) et refonte de la barre Lancement"
+  "clientUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.2/nocturnia-core.bin",
+  "clientSha256": "887e936b69db8ba62122d4346be27b31d6ffb4fd76afc62aee83eacd81936fe8",
+  "changelog": "Desactivation du crash F6 Twitch et retrait du badge 67,600 Online"
 }
