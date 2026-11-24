@@ -1,0 +1,10 @@
+{
+  "launcherVersion": "1.0.0",
+  "launcherInstallerUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.0/Nocturnia-Launcher-Setup-1.0.0.exe",
+  "launcherSha256": "e6bbd88c4bd0fbe9b5c774e1d2f60c3f2b2c23cdba6599e9a08f90f79793b77e",
+  "mandatory": true,
+  "clientVersion": "1.5.0",
+  "clientUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.0/nocturnia-core.bin",
+  "clientSha256": "5611c383f2b27d89b333b9dd12ef33d700579385bb996b4d74c639cbd1e9d512",
+  "changelog": "Version initiale Nocturnia"
+}
