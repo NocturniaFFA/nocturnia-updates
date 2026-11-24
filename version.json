@@ -1,10 +1,10 @@
 {
-  "launcherVersion": "1.0.0",
-  "launcherInstallerUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.0/Nocturnia-Launcher-Setup-1.0.0.exe",
-  "launcherSha256": "c4ae755984fc8b25aa53d3f17c9e6bc0f5847bc4cc8b102108b743eabd6780ae",
+  "launcherVersion": "1.0.1",
+  "launcherInstallerUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.1/Nocturnia-Launcher-Setup-1.0.1.exe",
+  "launcherSha256": "f76e2f6b3a08e19264008fa1276825c407fd1a3382e9b382be8f3affaf74c1ce",
   "mandatory": true,
   "clientVersion": "1.5.0",
   "clientUrl": "https://github.com/NocturniaFFA/nocturnia-updates/releases/download/v1.0.0/nocturnia-core.bin",
   "clientSha256": "f19b08464e3bb67c9e017dc26eb064074a65864b03e02d78ef35de08e8e76f97",
-  "changelog": "Version initiale Nocturnia + synchro logo Tab"
+  "changelog": "Correction du telechargement (reprise auto + progression en direct) et refonte de la barre Lancement"
 }
